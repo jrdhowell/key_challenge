@@ -1,7 +1,7 @@
 # Code Challenge: Distributing Keys
 
 Create a function, solution(num_buns, num_required), that takes two integers as arguments and 
-returns a matrix (array of lists) reprensenting distribution of keys to the number of volunteer (num_buns) 
+returns a matrix (array of lists) representing distribution of keys to the number of volunteer (num_buns) 
 to unlock a number of locks (num_required).
 
 Distribution of the keys: Argument num_buns is the total number of volunteers able to hold the keys and
