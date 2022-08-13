@@ -15,7 +15,7 @@ More than one volunteer may have the same key, but must use the least amount of 
 
 **For example:**
 
-num_buns = 4 
+num_buns = 4 <br/>
 num_required = 4
 
 Key distrubution:
@@ -25,7 +25,7 @@ Key distrubution:
 <br/><br/>
 **Or given:** 
 
-num_buns = 4
+num_buns = 4 <br/>
 num_required = 1
 
 Key distribution: 
