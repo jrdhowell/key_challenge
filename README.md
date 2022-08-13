@@ -8,7 +8,7 @@ Distribution of the keys: Argument num_buns is the total number of volunteers ab
 num_required is the number of locks. Keys (up to 10, labeled 0-9) must be distributed to volunteers in a
 manner such that any subset of the volunteers equaling the number of locks (num_required) will together have a complete set of keys.
 In other words, if there are 4 locks, and there are 4 volunteers, each volunteer will be required and each volunteer will have to have a unique key.
-More than one volunteer may have the same key, but must use the least amount of type of keys and keys per type as possible.
+More than one volunteer may have the same key, but must use the least amount of type of keys and keys per volunteer as possible.
 
 
 <br/>
